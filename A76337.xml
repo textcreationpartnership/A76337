@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall plea; or, a defence of the Kings supremacie Wherein it is evidenced and maintained by argument, that to punish a King capitally, is absolutely against the word of God, and the established lawes of the land; and that to doe so great a wickednesse, will cast a great dishonour upon our nation, and the profession of Christianitie. By R.B. bach. of divinity.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76337</idno>
+            <idno type="STC">Wing B170A</idno>
+            <idno type="STC">ESTC R200798</idno>
+            <idno type="EEBO-CITATION">99896495</idno>
+            <idno type="PROQUEST">99896495</idno>
+            <idno type="VID">132146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2417:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall plea; or, a defence of the Kings supremacie Wherein it is evidenced and maintained by argument, that to punish a King capitally, is absolutely against the word of God, and the established lawes of the land; and that to doe so great a wickednesse, will cast a great dishonour upon our nation, and the profession of Christianitie. By R.B. bach. of divinity.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132146:1"/>
+            <p>THE ROYALL PLEA; OR, A Defence of the KINGS <hi>SUPREMACIE.</hi>
+            </p>
+            <p>Wherein It is Evidenced and maintained by Argument, that to puniſh a King Capitally, is abſolutely againſt the word of God, and the eſta<g ref="char:EOLhyphen"/>bliſhed Lawes of the Land; and that to doe ſo great a wickedneſſe, will caſt a great diſho<g ref="char:EOLhyphen"/>nour upon our Nation, and the pro<g ref="char:EOLhyphen"/>feſſion of Chriſtianitie.</p>
+            <p>
+               <hi>By R.B.</hi> Bach. of Divinity.</p>
+            <q>
+               <bibl>Eccleſ. 8.4.</bibl>
+               <p>Where the word of a King is, there is power; and who ſhall ſay unto him, what doeſt thou.</p>
+            </q>
+            <p>Printed in the Yeare 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:132146:2"/>
+            <pb n="1" facs="tcp:132146:2"/>
+            <head>TWO Quaeres whither by the Law of God, and the Laws of the Land, a KING may be queſtioned for his Life by his Subjects in caſe that he hath acted ſomething againſt the foreſaid eſtabliſhed Laws.</head>
+            <p>TO the firſt I anſwer Negatively out of the Law of God, my firſt Argument is deduced from the Teſt. of <hi>Chron.</hi> 15. verſe 22. <hi>Touch not mine Annointed.</hi>
+            </p>
+            <p>Which Text the Papiſts appropriate chiefely to the Pope and his Clergy, others amongſt us lead with more zeale and ſelf lo e then knowledge, joyne iſſue with the Papiſts, and denying it to be meant of Kings apply the ſame to them<g ref="char:EOLhyphen"/>ſelves, whom they ſuppoſe to be the only faithfull and ſe<g ref="char:EOLhyphen"/>lected Saints.</p>
+            <p>But to ruine their miſtake in the expoſition of this Text, the chiefe boundary which our Church hath to fence the Crown and protect the Perſon of King from all violent aſ<g ref="char:EOLhyphen"/>ſaults, I ſhall with all humility and tender reſpect to weake Conſciences labour to prove the contrary, <hi>i. e.</hi> That the Text concerns chiefely a King.</p>
+            <p>My firſt reaſon ſhall be this.</p>
+            <p>
+               <hi>David</hi> calls <hi>Saul the Lords Annointed;</hi>
+               <note place="margin">2 <hi>Sam.</hi> 1.14.</note> yet was <hi>Saul</hi> no Prieſt which overthrowes the aſſertion of the Papiſts, nor any of the faithfull which refutes the poſition of the others; But <hi>Saul</hi> was a King, <hi>ergo,</hi> The Text relates primarily to the Perſon of a King.</p>
+            <p>This prohibition is the originall maine Negative precept touching Princes and their ſafety. For this <hi>Touch not, is as much</hi> as <hi>Deſtroy not,</hi> as <hi>David</hi> ſaid to <hi>Abiſhai</hi> 2 <hi>Sam.</hi> 26.9.
+<pb n="2" facs="tcp:132146:3"/>
+               <hi>Deſtroy him not</hi> (ſpeaking of <hi>Saul</hi>) for who can ſtretch forth his hand againſt <hi>the Lords Annointed and be guiltleſſe.</hi>
+            </p>
+            <p>A King is ſaid to be the Lords Annointed in that he is appointed and aſſigned by God, and endewed with gifts to that end and purpoſe, to rule his people according unto ju<g ref="char:EOLhyphen"/>ſtice in the wayes of piety and holineſſe, ſo that they neither diſhonour God by their Schiſmes, Hereſies, and other pro<g ref="char:EOLhyphen"/>fanations, nor wrong their neighbours by unrighteous dea<g ref="char:EOLhyphen"/>lings.</p>
+            <p>I deny not but this word Annointed in the Text implyes the Patriarchs <hi>Abraham, Iſaac,</hi> and <hi>Iacob,</hi> touching whom <hi>prima intentione</hi> this charge was given that they ſhould not be touched. But I aſſert againe, that they were Princes in their generations (as the <hi>Rabbines</hi> on the Text doe atteſt) yet as they affirme who are our beſt expoſitors this terme Anointed, as it began in the Patriarchs, ſo it was continued to Kings who ſucceeded them in their government over divers countries. And when the Patriarchall rule expired, the Regall tooke place, being both one and the ſame in ef<g ref="char:EOLhyphen"/>fect, as appears by thoſe two places, <hi>Gen.</hi> 23.6. <hi>Acts</hi> 2.29. In the former whereof we find that <hi>Abraham</hi> the Patriarch is tearmed a Prince; ſo in the latter <hi>David</hi> the Prince is termed a Patriarch. <hi>Let me ſpeake boldly unto you of the Patriarch</hi> Abraham, <hi>&amp;c.</hi> From this prohibition, <hi>Touch not mine Annointed,</hi> we may draw this inference, That this Text falls under the notion, and binds as a Law of Nature, being given for ſuch who lived in the old world long before the Law was given by <hi>Moſes,</hi> being written in Stone-tables.</p>
+            <p>It will follow then that they ſinne even againſt the law of nature who ſhall touch a <hi>King</hi> the <hi>Lords Anointed</hi> by puniſh<g ref="char:EOLhyphen"/>ing him with Impriſonment or death.</p>
+            <p>Now that as in other things ſo in this terme of <hi>Chriſti Domini</hi> the Lords Annointed, Kings doe ſucceed or come in the roome of Patriarchs, we have firſt our warrant <hi>from the Holy Ghoſt applying</hi> this terme <hi>here afterwards</hi> to <hi>Saul</hi> 1 <hi>Sam.</hi> 12.3.5. 2. <hi>Sam.</hi> 24.6. <hi>To</hi> David 2 <hi>Sam.</hi> 19.21. <hi>To</hi> Salo<g ref="char:EOLhyphen"/>mon 2 <hi>Chro.</hi> 6.42. To <hi>Ezekias Abac.</hi> 3.1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. to <hi>Ioſias Lam.</hi> 4.<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.
+<pb n="3" facs="tcp:132146:3"/>
+and to <hi>Cyrus Eſa.</hi> 45. Secondly from Councells. The third Generall Councell at <hi>Epheſus.</hi> The great Councell of <hi>To<g ref="char:EOLhyphen"/>ledo</hi> the fourth. The great Weſterne Councell at <hi>Franck<g ref="char:EOLhyphen"/>ford.</hi> Thirdly from the conſent of Fathers, which is evi<g ref="char:EOLhyphen"/>denced by that expreſſion in that Councell at <hi>Franchford Beatus Hyeronimus &amp; caeteri S. Scripturae tractutoris, &amp;c.</hi> St. <hi>Hierome</hi> and the reſt of the writers on the Scriptures underſtand it not of any others but of Kings. Nay even ſome of the Popiſh writers diſſenting herein from their fellow Hereticks interpret this Text to be meant of Kings, ſo <hi>Caie<g ref="char:EOLhyphen"/>tan</hi> and <hi>Genebrard</hi> upon the place,</p>
+            <p>The fumme of all is this, That this phraſe <hi>mine Annoin<g ref="char:EOLhyphen"/>ted,</hi> expreſſed in the forecited Text, although it be there and in the 105. <hi>Pſalme</hi> aſcribed to the Patriarchs, yet it is e<g ref="char:EOLhyphen"/>ver afterwards without variation continually appropria<g ref="char:EOLhyphen"/>ted to Kings, and to Kings only through all the Bible, and that no leſſe then three and thirty times.</p>
+            <p>Theſe muſt not be touched.
+<list>
+                  <item>1. Not with virulent Tounges.</item>
+                  <item>2. Not with peſtilent pens, both which are the Divells weapons, they have their points and edges, they pierce like a ſword and cut like rayſors.</item>
+                  <item>3. Not with violent hands.</item>
+               </list>
+            </p>
+            <p>Againe not only their Perſons and Names, but alſo their States fall under this prohibition, <hi>Nolite tangere,</hi> &amp;c. <hi>Touch not mine Annointed.</hi> They that touch their Crowns and dignities by caſting downe the one, and blaſting the other, and by denying them the free uſe of thoſe Royall Preroga<g ref="char:EOLhyphen"/>tives which have been intituled to them by their Predeceſ<g ref="char:EOLhyphen"/>ſours, and confirmed by the a tient Laws, thoſe I pro<g ref="char:EOLhyphen"/>nounce from the mouth of God his word, to offend againſt this Negative precept, <hi>Touch not mine Annointed.</hi>
+            </p>
+            <p>A ſecond Argument is that of <hi>David Pſal.</hi> 51.4. <hi>Againſt thee, thee only have I ſinned: &amp;c.</hi> ſo the words are to be read according to the originall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> here is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> put emphatically by way of excluſion to praeclude all humane and inferiour power which is in ſubjects from medling with the ſacred perſons of their
+<pb n="4" facs="tcp:132146:4"/>
+Kings, by inflicting on them corporall or capitall puniſhments, which is againſt the Law of nature, as for the hand to ſtrike the head: And to cut this off to cure any diſtemper, either in it or the body, I ſuppoſe you will ſay is a peece of madneſſe: and ſo againſt the light of reaſon, which God has ſet up in us to pre<g ref="char:EOLhyphen"/>ſerve our ſelves from ruine, which w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll inevitably fall upon each particular, when the whole Kingdome ſhall be deſtroyed: And when the head ſhal be taken off (which God avert) the body and all the Members muſt needs periſh, and fall into ſad obſtructions: which that we may not feele, with the loſſe of Peace, Religion's Nurſe. I ſhall propoſe a third Argument.</p>
+            <p>A third Argument Reſults from the following words in the fore-cited Text, <hi>Pſal.</hi> 51.4. <hi>Ut juſtificeris in ſermonibus tuis, &amp; purus ſis quando Tu judicas;</hi> That thou maiſt bee ju<g ref="char:EOLhyphen"/>ſtified thy in ſaying, and pure when <hi>thou judgeſt.</hi> Hereby <hi>Da<g ref="char:EOLhyphen"/>vid</hi> (who was no more King then another, in that every <hi>King now is (as he was)</hi> ordained by God himſelfe, as ap<g ref="char:EOLhyphen"/>pears by <hi>Prov.</hi> 8.15. <hi>Pſ.</hi> 2.6.) intimates thus much unto us, that when God, in whoſe hands are the hearts of Kings, to diſpoſe and turn them as it ſeemeth beſt unto Him, and un<g ref="char:EOLhyphen"/>der whoſe power Kings onely are, to be puniſhed by him a<g ref="char:EOLhyphen"/>lone for their offences, when he ſhall judge, that is, puniſh them, he ſhall doe what is juſt and proper onely to him, but when Subjects ſhall take upon them to doe this, they cannot be held pure from the guilt of <hi>a great offence</hi> which the Holy Ghoſt plainly ſaies <hi>is worſe then witchcraft,</hi> 1 Sam. 15.23.</p>
+            <p>A fourth Argument may be drawn from <hi>Prov.</hi> 30.31. where the Holy Ghoſt does (as it were hedge in the Perſon of a King from being queſtioned for his life, when hee uſes this choice and ſingular expreſſion <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Againſt whom there is no riſing up <hi>i.e.</hi> againſt whom none may juſtly, and none can with their own perſons ſafety, riſe up either by taking up armes againſt him, or by calling him as a Delinquent into queſtion, &amp;c.</p>
+            <p>A fifth Argument on which all Divines, both ancient and Moderne doe much inſiſt in, this caſe is that Text in <hi>Eccleſ.</hi> 8.4. <hi>VVhere the word of a King is there is power, and who ſhall
+<pb n="7" facs="tcp:132146:4"/>
+ſay unto him what doeſt thou?</hi> The meaning of which Text is, That Kings are under the <hi>Directive</hi> power of the lawes, ſo as they are bound in Conſcience to Obey, ſo farre as they are agreeable to the Word, and croſſe not their Preroga<g ref="char:EOLhyphen"/>tives, but not under the <hi>Corrective,</hi> as if they might be pu<g ref="char:EOLhyphen"/>niſhed, as other Subjects, when they have tranſgreſſed.</p>
+            <p>A ſixth Argument is held forth unto us out of the Text in <hi>Timo<g ref="char:EOLhyphen"/>thy,</hi> 1 <hi>Tim.</hi> 2.1.2 <hi>verſes,</hi> where the Apoſtle en oyns us to pray for Kings, 1.5. to pray to God to kepe them in the way of juſtice, and to pray to God to turn them into that way again, if they have at any time gone out of it. This is the duty of ſubjects, &amp; this was ever the practiſe of the Primitive Chriſtians, according to that ſaying of Saint <hi>Ambroſe, Preces &amp; lachrymae ſunt chriſtia<g ref="char:EOLhyphen"/>norum arma.</hi> i. e. Chriſtians when they are oppreſſed by their Rulers ought to guard themſelves with no armes, and oppoſe them no otherwiſe then with prayers and tears: to this purpoſe read 1 <hi>Sam.</hi> 8.17, 18. <hi>They ſhall cry unto the Lord, &amp;c.</hi>
+            </p>
+            <p>A ſeventh Argument ſhall be, that in the thirteenth to the, <hi>Roman, verſ.</hi> 1. <hi>Let every ſoule be ſubject to the higher powers</hi> which Text is explained by S. <hi>Peter,</hi> 1 <hi>Ep.</hi> 2.13. <hi>Submit your ſelves unto every Ordinance of man, whether it be to the King as ſupreme.</hi> Now I appeale to every mans ſoule and conſcience, how they can be ſaid to ſubject themſelves to their King, who trample him (as it were) under their feet, by laying his honour in the duſt, and ſubjecting his royall perſon to their own wils, and making him to ſtand as a Delinquent at a barre of juſtice, which was never done by any King ſince or before the Conqueſt, neither warrantable by Gods word, but rather quite oppoſite to it, and to the practiſe of all nations, which either now are, or ever have been before us, and wholly repugnant to the Statute and Common Lawes of this Realme, together with the <hi>Mag<g ref="char:EOLhyphen"/>na Charta,</hi> as the moſt knowing Lawyers have aſſured me, both by word of mouth, and under their own hands.</p>
+            <p>We read in the 2 <hi>Chron.</hi> 25.3. That <hi>Amazias</hi> ſlew <hi>Zubad</hi> and <hi>Jehozabud</hi> his ſervants, who ſlew <hi>Ioaſh</hi> his father, and their King, we find likewiſe <hi>v.</hi> 2. this recorded of him, that <hi>Ama<g ref="char:EOLhyphen"/>zias did what was right in the ſight of the Lord.</hi> If he did that
+<pb n="6" facs="tcp:132146:5" rendition="simple:additions"/>
+which was right in deſtroying them, ſurely they did wickedly in deſtroying their Lord the King.</p>
+            <p>I ſhall conclude with that exhortation of <hi>David</hi> to <hi>Abiſhai,</hi> which was cited before, <hi>Deſtroy him not, for who can ſtretch forth his hand againſt the Lords Anointed, and be guiltleſſe?</hi> 1 <hi>Sam.</hi> 26.9. And I ſhall ſollicit the Almighty with my moſt earneſt prayers, that every one whoſe heart is now imbittered againſt the King may be ſo mollified and the edge of his purpo<g ref="char:EOLhyphen"/>ſes ſo blunted, that he may put on <hi>Davids</hi> reſolution, when he had ſurprized King <hi>Saul</hi> in the cave at <hi>Ergedi,</hi> and ſay as we read, 1 <hi>Sam.</hi> 24.6. <hi>The Lord forbid that J ſhould doe this thing unto my Maſter the Lords Anointed, to ſtretch forth my hand againſt him, ſeeing he is the Anointed of the Lord.</hi>
+            </p>
+            <p>And ſeeing that we have a <hi>David,</hi> and another <hi>Salomon</hi> for our King and Governour let all good <hi>Subjects eccho</hi> forth that acclamation which was founded by thoſe, 2 <hi>Kings</hi> 16.16,</p>
+            <closer>God ſave the King,<lb/>
+God ſave the King.</closer>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
